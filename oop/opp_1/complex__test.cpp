@@ -1,7 +1,5 @@
-#include <iostream>
 #include "complex.h"
 
-using namespace std;
 
 int main()
 {
@@ -29,6 +27,6 @@ int main()
   
   cout << (c2 - 2) << endl;
   cout << (5 + c2) << endl;
-  
+
   return 0;
 }

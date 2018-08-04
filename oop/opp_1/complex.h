@@ -1,6 +1,8 @@
 #ifndef __COMPLEX__
 #define __COMPLEX__
 
+#include<iostream>
+using namespace std;
 class complex;
 complex &
 __doapl(complex *ths, const complex &r);
